@@ -1,0 +1,28 @@
+{
+  "overview": {
+    "template_table": 0,
+    "prefix_rows": 9,
+    "repeat_rows": [
+      9,
+      11
+    ]
+  },
+  "activity": {
+    "template_table": 1,
+    "prefix_rows": 4,
+    "repeat_rows": [
+      4,
+      12
+    ]
+  },
+  "final_footer_signature": [
+    [
+      "1",
+      null
+    ],
+    [
+      "5",
+      null
+    ]
+  ]
+}

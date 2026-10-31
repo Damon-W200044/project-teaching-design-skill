@@ -1,0 +1,13 @@
+interface:
+  display_name: 项目化教学设计与知识建模
+  short_description: 按确认版模板完成项目教案，核对具体知识目标、思政映射、编号交互和语义知识图
+  default_prompt: 使用 $build-project-teaching-design，按确认版模板完成本项目设计；依据成果选具体知识目标，逐项映射思政，按编号环节与问答写交互，核对时间和语义知识图。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
