@@ -57,3 +57,21 @@ python scripts/audit_template.py assets/school-template.docx OUTPUT.docx --profi
 本Skill已用于《数据可视化》项目一至项目七教学设计与知识建模的迭代修订，沉淀模板保留、具体知识目标选取、思政映射、编号交互与知识组块切分等规则。
 
 教师负责教学内容判断、资料授权与最终审定。无真实课堂记录时，不生成虚构的学生表现、完成率或教学效果。
+
+## 应用案例：项目三
+
+通信客户画像与运营分析可视化，12学时。
+案例包含教学设计、知识建模图、任务知识组块及可编辑Visio文件。
+
+### 完整材料
+- [查看教学设计PDF](examples/project-03/teaching-design.pdf)
+- [查看完整知识建模图PDF](examples/project-03/knowledge-model.pdf)
+- [浏览全部案例文件](examples/project-03/)
+
+### 活动一：任务知识组块展示
+
+#### 任务一
+![活动一任务一知识组块](examples/project-03/A1_任务1.png)
+
+#### 任务二
+![活动一任务二知识组块](examples/project-03/A1_任务2.png)
